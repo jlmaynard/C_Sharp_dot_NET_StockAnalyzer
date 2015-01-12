@@ -8,3 +8,4 @@ Uses API to Yahoo Finance and builds appropriate string.
 
 IDE = VisualStudio
 
+Be sure to check out any and all images and PFD files. They give the visual meat to the project. 
