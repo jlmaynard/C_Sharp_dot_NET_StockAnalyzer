@@ -1,0 +1,76 @@
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.baml
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.baml
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.baml
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.g.cs
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.g.cs
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\App.g.cs
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer_MarkupCompile.cache
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.g.resources
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Form_Candlestick_Chart.resources
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\documents\visual studio 2010\Projects\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\MainWindow.baml
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\Window_DataGridView.baml
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\Window_Test.baml
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\Window_DataGridView.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\Window_Test.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\App.g.cs
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer_MarkupCompile.cache
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer.g.resources
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Form_Candlestick_Chart.resources
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\Visual Studio 2010\Projects\StockAnalyzer - 3-19-13 broken\StockAnalyzer\obj\x86\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\App.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer_MarkupCompile.cache
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.g.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Form_Candlestick_Chart.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_CloseHigherDataGridView.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project2\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_CloseHigherDataGridView.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.exe
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\bin\Debug\StockAnalyzer.pdb
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_CloseHigherDataGridView.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.baml
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_CloseHigherDataGridView.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_DataGridView.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\Window_Test.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\App.g.cs
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer_MarkupCompile.cache
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.g.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Form_Candlestick_Chart.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\StockAnalyzer.Properties.Resources.resources
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Verde Green\Documents\USF\Spring 2013\SoftwareSystemDesign\Project3\StockAnalyzer\StockAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog

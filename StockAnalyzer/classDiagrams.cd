@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="StockAnalyzer.aCandlestick">
+    <Position X="0.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>FgCAAAAAEAACAAACBBAQAAgAAKgAAAAAAAAAAJBAAQQ=</HashCode>
+      <FileName>aCandlestick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StockAnalyzer.aStringSplitter">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAQAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>aStringSplitter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+﻿<Window x:Class="StockAnalyzer.Window_CloseHigherDataGridView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window_CloseHigherDataGridView" Height="300" Width="400" Icon="/StockAnalyzer;component/old_ticker.ico" ResizeMode="NoResize" SizeToContent="Height">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="261" HorizontalAlignment="Left" Name="dataGrid_CloseHigher" VerticalAlignment="Top" Width="378" AlternatingRowBackground="WhiteSmoke" />
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿<Window x:Class="StockAnalyzer.Window_DataGridView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Historical Stock Data" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="347" d:DesignWidth="427" SizeToContent="Height" ResizeMode="NoResize" Icon="/StockAnalyzer;component/old_ticker.ico" Height="300" Width="400">
+    <Grid>
+        
+        <DataGrid AutoGenerateColumns="True" Height="261" HorizontalAlignment="Left" Name="dataGrid_StockData" VerticalAlignment="Top" Width="378" ItemsSource="{Binding}" DataContext="{Binding}" AlternatingRowBackground="WhiteSmoke" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>
