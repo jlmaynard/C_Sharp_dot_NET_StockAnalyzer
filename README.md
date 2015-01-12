@@ -4,5 +4,7 @@ C# .NET semester project for USF Software Systems Design course. I received an A
 Project utilizes .NET framework and custom C# code and XAML to implement a stock analyzer
 using Windows Presentation Foundation (WPF) forms and candle stick finance quant charts. 
 
+Uses API to Yahoo Finance and builds appropriate string. 
+
 IDE = VisualStudio
 
